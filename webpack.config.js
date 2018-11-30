@@ -77,7 +77,7 @@ module.exports = (env, argv) => {
             ],
         },
 
-        devtool: debug ? "inline-sourcemap" : null,
+        devtool: debug ? "inline-sourcemap" : false,
 
         devServer: {
             contentBase: [

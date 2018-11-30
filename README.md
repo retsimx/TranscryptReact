@@ -2,7 +2,7 @@
 
 ---
 
-This example is a basic demonstration of how Transcrypt can be used as a viable transpiler for programming a React web application. It takes advantage of webpack, and a custom watcher that listens to python file changes and manages the transpilation, and eventually the updated of the webpack module for use during development.
+This example is a basic demonstration of how Transcrypt can be used as a viable transpiler for programming a React web application. It takes advantage of webpack, and a custom watcher that listens to python file changes and manages the transpilation, and eventually the emission of the webpack module for use during development.
 
 This is more a proof of concept that can be extended and used as the basis of a project.
 

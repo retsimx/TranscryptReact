@@ -1,0 +1,8 @@
+.idea/*
+.venv/*
+
+dist/*
+
+node_modules/*
+
+src/__target__/*
